@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jihad-smadi-902250226/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F317750%2Flinkedin_icon&psig=AOvVaw04LZcW2buYjM8uGShg7jHj&ust=1717199080512000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMi_zpvHtoYDFQAAAAAdAAAAABAE" alt="jihad smadi" height="30" width="40" />Github Account</a>
+<a href="https://www.linkedin.com/in/jihad-smadi-902250226/" target="blank"><img align="center" src="https://github.com/jihadsmadi/jihadsmadi/blob/main/github.svg" height="30" width="40" />Github Account</a>
 <a href="https://www.facebook.com/profile.php?id=100015605954812&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jihad smadi" height="30" width="40" /></a>
 </p>
 
