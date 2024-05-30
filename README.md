@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jihad Alsmadi</h1>
 <h3 align="center">A passionate Desktop developer and future back end developerfrom Syria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jihadsmadi&label=Profile%20views&color=0e75b6&style=flat" alt="jihadsmadi" /> </p>
+
 
 - 🔭 I’m currently working on [Driving & Vehicle License Department (DVLD)](https://github.com/jihadsmadi/DVLD)
 
@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jihad smadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jihad smadi" height="30" width="40" /></a>
-<a href="https://fb.com/jihad smadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jihad smadi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jihad-smadi-902250226/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3A2021_Facebook_icon.svg&psig=AOvVaw23Z9CCZaQYmNsde5yF-Mw1&ust=1717198902640000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiFqMbGtoYDFQAAAAAdAAAAABAE" alt="jihad smadi" height="30" width="40" />Github Account</a>
+<a href="https://www.facebook.com/profile.php?id=100015605954812&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jihad smadi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
