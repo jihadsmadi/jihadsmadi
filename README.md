@@ -49,7 +49,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="jihadsmadi41@gmail.com" target="_blank">
-    <img src="https://github.com/jihadsmadi/jihadsmadi/blob/main/icons8-gmail.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="http://Wa.me/+963937793120" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
