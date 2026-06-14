@@ -1,63 +1,114 @@
-<h1 align="left">Hey 👋 I'm Jihad Alsmadi ..!</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Jihad Alsmadi</h1>
 
-###
+<h3 align="center">
+Software Engineer • Full-Stack Developer • .NET Enthusiast
+</h3>
 
-<p align="left">A passionate Desktop developer and future back end developer from Syria</p>
+<p align="center">
+Building scalable applications, modern web solutions, and robust backend systems with a strong focus on software engineering principles.
+</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently studying IT<br>🎯 Goals: Increase my professional network and and get a real experience in software market<br>🎲 Fun fact: I’m currently learning .Net Freamwork,Front End Technology</p>
-
-###
-
-<h2 align="left">I work with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt="dot-net logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
-</div>
-
-###
-
-<h2 align="left">Contact with me</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jihad-smadi-902250226/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="mailto:jihadsmadi41@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="jihadsmadi41@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="52" height="40" alt="gmail logo"  />
+  
+  <a href="https://www.linkedin.com/in/mohammad-jihad-alsmadi-b6a69b416">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="http://Wa.me/+963937793120" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+
+  <a href="https://github.com/jihadsmadi">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihadsmadi&show_icons=true&locale=en&layout=compact" alt="jihadsmadi" /></p>
+# 🚀 About Me
 
+```csharp
+public class MohammadJihadAlsmadi
+{
+    public string Role = "Software Engineer";
+    
+    public string[] Focus =
+    {
+        "Full-Stack Development",
+        "Backend Engineering",
+        ".NET Ecosystem",
+        "Software Architecture"
+    };
 
+    public string[] CurrentlyLearning =
+    {
+        "ASP.NET Core",
+        "Clean Architecture",
+        "System Design",
+        "Cloud Technologies"
+    };
+
+    public string Goal =
+        "Build scalable software solutions that solve real-world problems.";
+}
+```
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css" />
+</p>
+
+### Frameworks & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,bootstrap" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,visualstudio,vscode" />
+</p>
+
+---
+
+# 💡 Interests
+
+- 🌐 Full-Stack Web Development
+- ⚙️ Backend Engineering
+- 🏗️ Software Architecture
+- 🖥️ Desktop Applications
+- 🚀 Performance Optimization
+- 📚 Continuous Learning
+
+---
+
+# 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jihadsmadi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-jihad-alsmadi-b6a69b416">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+
+  <a href="mailto:jihadsmadi41@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Engineering software that is scalable, maintainable, and meaningful."</i>
+</p>
